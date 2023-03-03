@@ -1,1 +1,1 @@
-Esse projeto e para eu me familiariza com o git, começando a estudar tecnologia e preciso aprender e saber como funciona o Git. 
+Esse projeto e para aprender e saber como funciona o Git. 
